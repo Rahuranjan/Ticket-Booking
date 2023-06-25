@@ -269,6 +269,13 @@ class ProfileScreen extends StatelessWidget {
                 const SizedBox(
                   height: 12,
                 ),
+                const AppLayoutBuilderWidget(
+                  section: 6,
+                  isColor: false,
+                ),
+                const SizedBox(
+                  height: 12,
+                ),
                 const Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [

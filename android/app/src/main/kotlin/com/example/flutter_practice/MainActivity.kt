@@ -1,4 +1,4 @@
-package com.example.flutter_practice
+package com.rahu.bookingTicket
 
 import io.flutter.embedding.android.FlutterActivity
 
